@@ -45,7 +45,7 @@ The reports folder has the given sample img_count_output.txt (assuming it will r
 and rottentomatoes_output.txt as data required for testing.
 
 1. rest_client gem is added to do GET request get json response 
-2. json gem is added to comvert the output and save in Json format.
+2. json gem is added to convert the output and save in Json format.
 3. The .rspec file is used for setting output format.
 4. The helper.rb has all the methods.
 
